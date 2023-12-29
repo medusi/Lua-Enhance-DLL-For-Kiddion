@@ -57,5 +57,3 @@ void BF.AllocCon()						-- 呼出控制台
 
 Note: Although `getch`, `getchar` and `getline` will wait for input, they may read blank lines or line breaks ('\n')
 	  Don't forget to close te map or it won't be saved
-
-
